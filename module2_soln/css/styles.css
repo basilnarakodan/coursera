@@ -62,4 +62,7 @@ h1{
 	.col-sm-12{
 		width:100%;
 	}
+	body{
+		font-size: 16px
+	}
 }
